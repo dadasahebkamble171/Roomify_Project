@@ -26,7 +26,7 @@
     <form id="form1" runat="server">
         
 
-        <!-- Navbar -->
+        <!-- Navbar  code -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top shadow" style="left: 0px; top: 0">
       <div class="container">
           <a class="navbar-brand d-flex align-items-center justify-content-center" href="index.html">
@@ -56,8 +56,8 @@
                   <button class="btn btn-outline-warning me-3" type="submit">Search</button>
               </div>
               <div class="d-flex flex-row me-3">
-                <button type="button" class="btn btn-primary me-3" data-bs-toggle="modal" data-bs-target="#LOGINBackdrop">Login</button>
-                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Signup</button>
+                <button type="button" class="btn btn-primary me-3" data-bs-toggle="modal" data-bs-target="#LOGINBackdrop">LOGIN</button>
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">SIGNUP</button>
             </div>
             
           </div>
